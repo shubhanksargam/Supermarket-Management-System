@@ -38,8 +38,6 @@ FOLLOW THE FOLLOWING STEPS TO ACCESS THE PROGRAM:-
 That's it. You are done. Thanks for accessing my program.
 
 # Some Screenshots
-- Main Page
-![image](https://user-images.githubusercontent.com/77270386/140327977-5d2afaf0-38a1-4c5a-be99-48ae317fd5f0.png)
 
 - Employee Page
 ![image](https://user-images.githubusercontent.com/77270386/140328069-4d7a35a3-0457-42ba-b7e4-1e3f1e1fe915.png)
