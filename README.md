@@ -51,5 +51,4 @@ That's it. You are done. Thanks for accessing my program.
 ![image](https://user-images.githubusercontent.com/77270386/140328411-97fae76a-808d-4b13-8085-7cffe322cde3.png)
 
 
-## SPECIAL THANKS TO JOHNEY FOR HELPING ME IN THIS PROJECT AND MANAGING DATABASES.
 
