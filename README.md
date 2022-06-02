@@ -16,7 +16,6 @@ pip install datetime
 ```
 pip install tk
 ```
-- If you have trouble downloading the modules, refer the videos available online.😊
       
 FOLLOW THE FOLLOWING STEPS TO ACCESS THE PROGRAM:-
 
